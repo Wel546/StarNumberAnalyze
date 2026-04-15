@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(255, 241, 222);
+    color: rgb(255, 255, 255);
+    font: normal 15pt Arial;
+    background-image: url('dcim/bgAnalisador.png');
+    background-size: 59pc;
+}
+
+
+header {
+    text-align: center;
+}
+
+#inputPrincipal {
+    margin-bottom: 20px;
+}
+
+section {
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 6px black;
+    color: rgb(255, 255, 255);
+}
+
+#listaNumeros {
+    width: 130px;
+    margin-bottom: 10px;
+}
+
+footer {
+    font-size: 15 px;
+    font-style: italic;
+    text-align: center;
+}
